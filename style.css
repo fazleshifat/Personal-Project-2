@@ -1,5 +1,5 @@
 
-@media screen and (min-width:100px) {
+@media screen and (min-width:600px) {
  *{
     margin:0;
     padding:0;
@@ -27,14 +27,14 @@
 
    .ul li{
     display:inline-block;
-    margin:auto;
+    margin:10px 17px;
     padding:10px 0;
     
     }
     
     .ul li a{
     color:white;
-    font-size:13px;
+    font-size:12px;
     text-transform:uppercase;
     font-family: Calibri;
     text-decoration: none;
@@ -108,17 +108,17 @@
       
      }
      .card1{
-      width: 100%;
+      width: 300px;
       height: 380px;
-      margin: 0 auto;
+      margin: 0 80px;
       background-color: white;
       box-shadow:0 0 10px grey;
       border-radius: 8px;
      }
      .card1 img{
-      width: 100%;
+      width: 60%;
      height: auto;
-     margin:auto;
+     margin:20px 60px 0;
      border-radius: 50%;
     
      }
@@ -135,18 +135,18 @@
   transform: scale(1.1,1.1);
      }
      .card2{
-      width: 100%;
+      width: 300px;
       height: 380px;
-      margin: auto;
+      margin: 70px 80px;
       background-color: white;
       box-shadow:0 0 10px grey;
       border-radius: 8px;
       
      }
      .card2 img{
-      width: 100%;
+      width: 60%;
      height: auto;
-     margin:auto;
+     margin:20px 60px 0;
      border-radius: 50%;
     
      }
@@ -163,17 +163,17 @@
   transform: scale(1.1,1.1);
   }
      .card3{
-      width: 100%;
+      width: 300px;
       height: 380px;
-      margin:auto;
+      margin:70px 80px;
       background-color: white;
       box-shadow:0 0 10px grey;
       border-radius: 8px;
      }
      .card3 img{
-      width: 100%;
+      width: 60%;
      height: auto;
-     margin:auto;
+     margin:20px 60px 0;
      border-radius: 50%;
     
      }
