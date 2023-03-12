@@ -108,7 +108,7 @@
       
      }
      .card1{
-      width: 300px;
+      width: 100%;
       height: 380px;
       margin: 0 80px;
       background-color: white;
@@ -116,7 +116,7 @@
       border-radius: 8px;
      }
      .card1 img{
-      width: 60%;
+      width: 100%;
      height: auto;
      margin:20px 60px 0;
      border-radius: 50%;
@@ -135,7 +135,7 @@
   transform: scale(1.1,1.1);
      }
      .card2{
-      width: 300px;
+      width: 100%;
       height: 380px;
       margin: 70px 80px;
       background-color: white;
@@ -144,7 +144,7 @@
       
      }
      .card2 img{
-      width: 60%;
+      width: 100%;
      height: auto;
      margin:20px 60px 0;
      border-radius: 50%;
@@ -163,7 +163,7 @@
   transform: scale(1.1,1.1);
   }
      .card3{
-      width: 300px;
+      width: 100%;
       height: 380px;
       margin:70px 80px;
       background-color: white;
@@ -171,7 +171,7 @@
       border-radius: 8px;
      }
      .card3 img{
-      width: 60%;
+      width: 100%;
      height: auto;
      margin:20px 60px 0;
      border-radius: 50%;
